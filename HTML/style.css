@@ -1,0 +1,251 @@
+.logo {
+  width: 135px;
+  float: left;
+  display: block;
+  margin-left: 110px;
+  margin-top: 10px;
+}
+.header {
+  padding-top: 1px;
+  font-size: 28px;
+  font-family: "Open Sans", sans-serif;
+  color: #333648;
+  font-weight: 600;
+  margin-left: 150px;
+}
+.subhead {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #333648;
+  margin-left: 150px;
+  padding-bottom: 9px;
+}
+.ios {
+  margin-left: 150px;
+  height: 48px;
+  position: relative;
+  top: -220px;
+}
+.android {
+  margin-left: 10px;
+  height: 48px;
+  position: relative;
+  top: -220px;
+}
+.bluecol {
+  color: #2342f1;
+}
+.inv {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  color: #333648;
+  float: right;
+  padding-top: 50px;
+  margin-right: 245px;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  color: #333648;
+}
+.home {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 8px;
+  color: #333648;
+  text-decoration: none;
+  text-align: right;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+.ioss {
+  margin-left: 800px;
+  height: 48px;
+  position: relative;
+  top: 5px;
+}
+.andr {
+  margin-left: 10px;
+  height: 48px;
+  position: relative;
+  top: 5px;
+}
+.mobimg {
+  margin-left: 330px;
+  width: 300px;
+  position: relative;
+  top: -95px;
+}
+.avail {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #636e72;
+  text-align: right;
+  position: relative;
+  bottom: -70pxx;
+  margin-left: 800px;
+  margin-right: 290px;
+  top: -20;
+}
+.features {
+  font-size: 36px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  margin-top: -5px;
+}
+.simp {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  color: #333648;
+  margin-bottom: 1px;
+  float: left;
+  margin-left: 850px;
+}
+.parao {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #636e72;
+  float: left;
+  margin-left: 850px;
+}
+.rates {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  color: #333648;
+  margin-bottom: 8px;
+  float: right;
+  margin-right: 385px;
+}
+.paras {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #636e72;
+  line-height: 1.5;
+  float: left;
+  margin-left: 855px;
+}
+.fees {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  color: #333648;
+  margin-bottom: 8px;
+  float: right;
+  margin-right: 385px;
+}
+.trad {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #636e72;
+  float: left;
+  margin-left: 865px;
+}
+.trust {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  color: #333648;
+  margin-bottom: 8px;
+  float: right;
+  margin-right: 300px;
+}
+.parat {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #636e72;
+  line-height: 1.5;
+  float: left;
+  margin-left: 870px;
+}
+.asset {
+  width: 300px;
+  margin-top: -475px;
+  margin-left: 150px;
+}
+.simple {
+  width: 48px;
+  float: right;
+  margin-right: 500px;
+  margin-top: -470px;
+}
+.bestr {
+  width: 48px;
+  float: right;
+  margin-right: 500px;
+  margin-top: -365px;
+}
+.zerof {
+  width: 48px;
+  float: right;
+  margin-right: 500px;
+  margin-top: -217px;
+}
+.sec {
+  width: 48px;
+  float: right;
+  margin-right: 500px;
+  margin-top: -110px;
+}
+.kub {
+  height: 32px;
+  margin-bottom: -100px;
+  margin-left: -300px;
+  padding-bottom: 25px;
+}
+.fb {
+  height: 32px;
+  margin-bottom: -100px;
+  margin-left: 80px;
+  padding-bottom: 25px;
+}
+.twi {
+  height: 32px;
+  margin-bottom: -100px;
+  margin-left: 20px;
+  padding-bottom: 25px;
+}
+.mail {
+  height: 32px;
+  margin-bottom: -100px;
+  margin-left: 20px;
+  padding-bottom: 25px;
+}
+.tele {
+  height: 32px;
+  margin-bottom: -100px;
+  margin-left: 20px;
+  padding-bottom: 25px;
+}
+.tnc {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: 400;
+  font-size: 16px;
+  float: right;
+  margin-top: 165px;
+  margin-right: 550px;
+  padding-bottom: 25px;
+}
+.apple {
+  height: 32px;
+  float: right;
+  margin-right: -350px;
+  margin-top: 160px;
+  padding-bottom: 25px;
+}
+.playstore {
+  height: 32px;
+  float: right;
+  margin-right: -475px;
+  margin-top: 160px;
+  padding-bottom: 25px;
+}
