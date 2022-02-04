@@ -1,0 +1,1 @@
+I made this clone for an Indian Startup Company- CoinSwitch Kuber using HTML AND CSS without any libaries. I have handstyled everything by my own. It's my first attemp at web development. Hopefully,I'll learn more.
